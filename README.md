@@ -38,8 +38,8 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/yohannestakata/zagol-task.git
+cd zagol-task
 ```
 
 ### 2. Install Dependencies
